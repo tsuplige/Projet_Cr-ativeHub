@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Creative Hub",
+			"path": "."
+		},
+		{
+			"name": "icon",
+			"path": "../../Downloads/icon"
+		},
+		{
+			"name": "img",
+			"path": "../../Downloads/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Creative Hub"
+	}
+}

@@ -351,6 +351,7 @@ main {
                 align-items: center;
                 gap: 5px;
 
+           
                 .icon-grid {
                     padding: 10px;
                     display: grid;
@@ -541,3 +542,8 @@ footer  {
 
 
 
+@media screen and (max-width: 1300px) {
+    .mini-icon_containers {
+        display: none !important;
+    }
+}
